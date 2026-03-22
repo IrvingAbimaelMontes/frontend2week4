@@ -1,3 +1,10 @@
+# 1.0.0 (2026-03-22)
+
+
+### Features
+
+* test ([beb1242](https://github.com/IrvingAbimaelMontes/frontend2week4/commit/beb12426433674d822bf90e5a0867b09aa447311))
+
 ## [1.1.1](https://github.com/JosephRangel/frontend2-week3-activity/compare/v1.1.0...v1.1.1) (2026-03-22)
 
 
